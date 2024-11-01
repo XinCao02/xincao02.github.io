@@ -93,7 +93,7 @@ For the final part (though I'd definitely prefer putting this paragraph in the f
 - *2020.09 - 2024.12 (now)* : The Chinese Uiversity of Hong Kong, Shenzhen; Shenzhen China
   - B.Sc., Data Science & Big Data Technology, School of Data Science
   - *Related Courses* : Advanced Machine Learning, Reinforcement Learning, Deep Learning and Applications, Speech and Natural Language Processing, Data Mining, Database Systems, Bioinformatics, Bayesian Statistics, Stochastic Simulation, Stochastic Processes, Optimization, Operations Management, C/C++
-- *2008.09 - 2012.12* : Doyle & Southgrove Elementary; California, United States & New York, United States
+- *2008.09 - 2012.12* : Doyle & Southgrove; CA, United States & NY, United States
   - *Honors*: Project Beyond Class (school Top 10% students)
 
 # 🎤 Invited Talks
