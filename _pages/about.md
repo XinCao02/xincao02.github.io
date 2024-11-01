@@ -43,8 +43,26 @@ For the final part (although I'd definitely prefer putting this paragraph in the
 
 ****
 # 🔥 News
-- *2024.10.30-31*: &nbsp;🎉🎉 Joined Warshel Institue Conference Meeting. 
-- *2022.10.07*: &nbsp;🎉🎉 Joined Hsien-Da Huang's Team at Warshel Institue.
+- *2024.10*: &nbsp;💬 Participated in the 6<sup>th</sup> Warshel Institue Conference Meeting, engaged and consulted with various esteemed academics.
+- *2024.10*: &nbsp;🧬 Joined Hsien-Da Huang's Team at Warshel Institue: began work on TF Activity Prediction with miRNA and Bayesian Models.
+- *2024.09*: &nbsp;🎉 4<sup>th</sup> Place in the [ICSR 2024 Robot Design Competition](https://icsr2024.dk/index.php/robot-design-competition/): presented PASIR, a multimodal emtion prediction robot using BCI-driven emotion models.
+- *2024.08*: &nbsp;🎤 Delivered a Speech at the 2024 Opening Ceremony as the Student Representative of Harmonia College, awarded a scholarship of ¥10,000 RMB.
+- *2024.05*: &nbsp;🔬 Started research on PPI Prediction via GNNs with Prof. Gang CAO at Shenzhen University of Advanced Technology.
+- *2024.04*: &nbsp;🏅 Ranked Global Top 10 in the 2024 [Bremen Big Data Challenge](https://bbdc.csl.uni-bremen.de/en/), led the project under supervision of [Prof. Haizhou LI](https://sds.cuhk.edu.cn/en/teacher/498)
+- *2023.10*: &nbsp;🏆 Champion of 2022 Shenzhen Soccer League, Runner-up of 2023 League, Core Player of school team.
+
+
+# 📜 Working Papers and Academic Presentations
+[1] <u>**X. Cao**</u>, J. Li, F. Meng, Y. Zou, Z. Wan, K. Xiao (2024). *Deep Learning-Based Prediction of Protein-Protein Interactions on Short Protein Datasets.* (Manuscript in preparation)
+
+[2] Y. Chen, <u>**X. Cao**</u>, Y. Pan, X. Chen, A. Gao, P. Chao, S. Huang, G. Cao, M. Li, H. Huang (2024). Bayesian Approach Towards Transcriptional Factor Activity Prediction based on miRNA Data. (Model in Development)
+
+[3] Z. Wan, A. Gao, P. Chao, <u>**X. Cao**</u>, J. Song, M. Ran (2024). *Variation Method for Map Matching.* (Manuscript in preparation)
+
+[4] <u>**X. Cao**</u>, J. Li (2024). *PASIR: A Proactive Social Interaction Robot Empowered by Multimodal Data Fusion and BCI-Driven Emotion Prediction Models.* International Conference on Social Robotics **(ICSR)**. (Oral presentation)
+
+[5] Reviewed 1 paper for **SIGKDD** Conference (2025) on behalf of official program committee member: *Large Language Models for Next Group Point-of-Interest Recommendation*.
+
 
 # 📝 Publications 
 
@@ -63,16 +81,24 @@ For the final part (although I'd definitely prefer putting this paragraph in the
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09* : 4<sup>th</sup> Place, ICSR 2024 Robot Design Competition
+- *2024.08* : Outstanding Leader *(¥10,000 RMB)*, 2023 Chinese University of Hong Kong, Shenzhen Harmonia Annual Scholarship
+- *2024.04* : Global Top10 Ranking, 2024 Bremen Big Data Challenge
+- *2024.03* : Silver, 7<sup>th</sup> Aunual Sports Festival of Chinese University of Hong Kong, Shenzhen (Team Captain)
+- *2023.01* : Champion, 2022 Shenzhen Annual Soccer League (Team Core Player)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎓 Educations
+- *2020.09 - 2024.12 (now)*, Bachelor of Science Candidate, School of Data Science, The Chinese Uiversity of Hong Kong, Shenzhen
+*Related Courses* : Advanced Machine Learning, Reinforcement Learning, Deep Learning and Applications, Speech and Natural Language Processing, Data Mining, Database Systems, Bioinformatics, Bayesian Statistics, Stochastic Simulation, Stochastic Processes, Optimization, Operations Management, C/C++
+
+# 🎤 Invited Talks
+- *2024.09*, 16<sup>th</sup> International Conference on Social Robotics ([ICSR 2024](https://www.asianlp.sg/conferences/icsr2024/web/))
+- *2021.03*, Harmonia College Opening Ceremony, Student Representative of 2024
+
+# 💻 Proffesional Experiences
+- *2021.06 - 2021.09* : **Algorithm Engineer**, [Kunyu Biotechnology Co., Ltd.](https://www.spatialfish.com/), Wuhan, China.
+  - **Gene Alignment Program Development**: Developed gene alignment program using Python and BLAST in two rounds to identify uniquely high-repeating DNA fragments in telomere and centromere regions of target chromosone. Quantitatively analyzed and optimized the threshold changes on final results, obtained high quality probes and an Invention Patent
+  - **Program Optimization**: Assessed and reformed algorithm logic, comparatively experimented different toolkits. Reduced execution time from 48h to under 10h, memory usage by threefold.
+  - **Data Processing and Report Writing**: Processed and analyzed output data in Linux, integrated biological information to select detectable sequences without fold spatial structures. Compiled final sequences and wrote user-friendly manual.
