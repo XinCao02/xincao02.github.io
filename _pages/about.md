@@ -92,7 +92,7 @@ For the final part (although I'd definitely prefer putting this paragraph in the
 - *2020.09 - 2024.12 (now)* : The Chinese Uiversity of Hong Kong, Shenzhen; Shenzhen China
   - B.Sc., Data Science & Big Data Technology, School of Data Science
   - *Related Courses* : Advanced Machine Learning, Reinforcement Learning, Deep Learning and Applications, Speech and Natural Language Processing, Data Mining, Database Systems, Bioinformatics, Bayesian Statistics, Stochastic Simulation, Stochastic Processes, Optimization, Operations Management, C/C++
-- *2008.09 - 2012.12* : Doyle Elementary & Southgrove Elementary; California, United States & New York, United States
+- *2008.09 - 2012.12* : Doyle & Southgrove Elementary; California, United States & New York, United States
   - *Honors*: Project Beyond Class (school Top 10% students)
 
 # 🎤 Invited Talks
@@ -104,3 +104,11 @@ For the final part (although I'd definitely prefer putting this paragraph in the
   - **Gene Alignment Program Development**: Developed gene alignment program using Python and BLAST in two rounds to identify uniquely high-repeating DNA fragments in telomere and centromere regions of target chromosone. Quantitatively analyzed and optimized the threshold changes on final results, obtained high quality probes and an Invention Patent.
   - **Program Optimization**: Assessed and reformed algorithm logic, comparatively experimented different toolkits. Reduced execution time from 48h to under 10h, memory usage by threefold.
   - **Data Processing and Report Writing**: Processed and analyzed output data in Linux, integrated biological information to select detectable sequences without fold spatial structures. Compiled final sequences and wrote user-friendly manual.
+
+
+# 🚀 Additional Skills
+
+- **Technical** : Python, Linux, PyTorch, Tensorflow, SQL, Spark, RegEx, LaTeX, C/C++, Java, Stable Diffusion, Ollama
+- **English** : Five years of school in America (Native Speaker); TOEFL 100 (Listening: 29)
+- **Music** : Experienced in Logic Pro, Reaper, Lumafusion; Lead vocal, lead guitar, keyboard, captain of original band; 1st place in University Singing Competition (Duet); University choir Tenor; ABRSM Grade 5 in piano
+- **Soccer** : Captain of college team; Core player of university team; Champion of Shenzhen University soccer League
