@@ -34,7 +34,7 @@ Growing up in [Cold Spring Harbor *(CSHL)*](https://www.cshl.edu), my interests 
 As the 2024 Nobel Prizes came out and Hold Thorp (Editor-in-Chief of *Science*) praised AlphaFold as *the* greatest achievement in AI, I have become even more convinced and confident that the research fields I've chosen are the correct ones:
 
 - **AI-4-BioScience / Biomedical AI:** Artificial Intelligence can and *should* be utilized to explore Biological Science Data Patterns and contribute to the well-being of humans.
-- **Human-NN-Like ANNs:** Artificial Neural Networks *(ANNs)* have been blazing through theese recent years, but named after human brains, they don't actually simulate the structure of human Neural Networks at all! After all, the result after eras of natural selection is what's truly meant to be *intelligent*.
+- **Brain-Like ANNs:** Artificial Neural Networks *(ANNs)* have been blazing through these recent years, but named after human brains, they don't actually simulate the workflow of human Neural Networks at all! After all, the result after eras of natural selection is what's truly meant to be *intelligent*.
 - **AI Music (Non-generative):** Tracks Seperation, Audio Enhancement, Arrangements Assisting.
 
 I am actively seeking interesting research opportunities and Ph.D. positions starting in Spring/Fall 2025. If you are looking for a dedicated and self-motivated candidate, please DO contact me at [xincao@link.cuhk.edu.cn](mailto:xincao@link.cuhk.edu.cn) !
