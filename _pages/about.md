@@ -48,9 +48,9 @@ For the final part (though I'd definitely prefer putting this paragraph in the f
 - *2024.09*: &nbsp;🎉 4<sup>th</sup> Place in the [ICSR 2024 Robot Design Competition](https://icsr2024.dk/index.php/robot-design-competition/): presented PASIR, a multimodal emtion prediction robot using BCI-driven emotion models.
 - *2024.08*: &nbsp;🎤 Delivered a Speech at the 2024 Opening Ceremony as the Student Representative of Harmonia College, awarded a scholarship of ¥10,000 RMB.
 - *2024.05*: &nbsp;🔬 Started research on PPI Prediction via GNNs with Prof. Gang CAO at Shenzhen University of Advanced Technology.
-- *2024.04* : &nbsp;🏅 Ranked Global Top 10 in the 2024 [Bremen Big Data Challenge](https://bbdc.csl.uni-bremen.de/en/), led the project under supervision of [Prof. Haizhou LI](https://sds.cuhk.edu.cn/en/teacher/498)
-- *2023.10* : &nbsp;🏆 Champion of 2022 Shenzhen Soccer League, Runner-up of 2023 League, Core Player of school team.
-- *2024.11* : &nbsp;🎸 Upcoming performance at HOULive, Shenzhen's biggest livehouse.
+- *2024.04*: &nbsp;🏅 Ranked Global Top 10 in the 2024 [Bremen Big Data Challenge](https://bbdc.csl.uni-bremen.de/en/), led the project under supervision of [Prof. Haizhou LI](https://sds.cuhk.edu.cn/en/teacher/498)
+- *2023.10*: &nbsp;🏆 Champion of 2022 Shenzhen Soccer League, Runner-up of 2023 League, Core Player of school team.
+- *2024.11*: &nbsp;🎸 Upcoming performance at HOULive, Shenzhen's biggest livehouse.
 
 
 # 📜 Working Papers and Academic Presentations
