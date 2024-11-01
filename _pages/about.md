@@ -53,13 +53,13 @@ For the final part (although I'd definitely prefer putting this paragraph in the
 
 
 # 📜 Working Papers and Academic Presentations
-[1] <u>**X. Cao**</u>, J. Li, F. Meng, Y. Zou, Z. Wan, K. Xiao (2024). *Deep Learning-Based Prediction of Protein-Protein Interactions on Short Protein Datasets.* (Manuscript in preparation)
+[1] **<u>X. Cao</u>**, J. Li, F. Meng, Y. Zou, Z. Wan, K. Xiao (2024). *Deep Learning-Based Prediction of Protein-Protein Interactions on Short Protein Datasets.* (Manuscript in preparation)
 
-[2] Y. Chen, <u>**X. Cao**</u>, Y. Pan, X. Chen, A. Gao, P. Chao, S. Huang, G. Cao, M. Li, H. Huang (2024). Bayesian Approach Towards Transcriptional Factor Activity Prediction based on miRNA Data. (Model in Development)
+[2] Y. Chen, **<u>X. Cao</u>**, Y. Pan, X. Chen, A. Gao, P. Chao, S. Huang, G. Cao, M. Li, H. Huang (2024). Bayesian Approach Towards Transcriptional Factor Activity Prediction based on miRNA Data. (Model in Development)
 
-[3] Z. Wan, A. Gao, P. Chao, <u>**X. Cao**</u>, J. Song, M. Ran (2024). *Variation Method for Map Matching.* (Manuscript in preparation)
+[3] Z. Wan, A. Gao, P. Chao, **<u>X. Cao</u>**, J. Song, M. Ran (2024). *Variation Method for Map Matching.* (Manuscript in preparation)
 
-[4] <u>**X. Cao**</u>, J. Li (2024). *PASIR: A Proactive Social Interaction Robot Empowered by Multimodal Data Fusion and BCI-Driven Emotion Prediction Models.* International Conference on Social Robotics **(ICSR)**. (Oral presentation)
+[4] **<u>X. Cao</u>**, J. Li (2024). *PASIR: A Proactive Social Interaction Robot Empowered by Multimodal Data Fusion and BCI-Driven Emotion Prediction Models.* International Conference on Social Robotics **(ICSR)**. (Oral presentation)
 
 [5] Reviewed 1 paper for **SIGKDD** Conference (2025) on behalf of official program committee member: *Large Language Models for Next Group Point-of-Interest Recommendation*.
 
@@ -89,15 +89,18 @@ For the final part (although I'd definitely prefer putting this paragraph in the
 
 
 # 🎓 Educations
-- *2020.09 - 2024.12 (now)*, Bachelor of Science Candidate, School of Data Science, The Chinese Uiversity of Hong Kong, Shenzhen
-*Related Courses* : Advanced Machine Learning, Reinforcement Learning, Deep Learning and Applications, Speech and Natural Language Processing, Data Mining, Database Systems, Bioinformatics, Bayesian Statistics, Stochastic Simulation, Stochastic Processes, Optimization, Operations Management, C/C++
+- *2020.09 - 2024.12 (now)* : The Chinese Uiversity of Hong Kong, Shenzhen; Shenzhen China
+  - B.Sc., Data Science & Big Data Technology, School of Data Science
+  - *Related Courses* : Advanced Machine Learning, Reinforcement Learning, Deep Learning and Applications, Speech and Natural Language Processing, Data Mining, Database Systems, Bioinformatics, Bayesian Statistics, Stochastic Simulation, Stochastic Processes, Optimization, Operations Management, C/C++
+- *2008.09 - 2012.12* : Doyle Elementary & Southgrove Elementary; California, United States & New York, United States
+  - *Honors*: Project Beyond Class (school Top 10% students)
 
 # 🎤 Invited Talks
-- *2024.09*, 16<sup>th</sup> International Conference on Social Robotics ([ICSR 2024](https://www.asianlp.sg/conferences/icsr2024/web/))
-- *2021.03*, Harmonia College Opening Ceremony, Student Representative of 2024
+- *2024.09* : 16<sup>th</sup> International Conference on Social Robotics ([ICSR 2024](https://www.asianlp.sg/conferences/icsr2024/web/))
+- *2021.03* : Harmonia College Opening Ceremony, Student Representative of 2024
 
 # 💻 Proffesional Experiences
 - *2021.06 - 2021.09* : **Algorithm Engineer**, [Kunyu Biotechnology Co., Ltd.](https://www.spatialfish.com/), Wuhan, China.
-  - **Gene Alignment Program Development**: Developed gene alignment program using Python and BLAST in two rounds to identify uniquely high-repeating DNA fragments in telomere and centromere regions of target chromosone. Quantitatively analyzed and optimized the threshold changes on final results, obtained high quality probes and an Invention Patent
+  - **Gene Alignment Program Development**: Developed gene alignment program using Python and BLAST in two rounds to identify uniquely high-repeating DNA fragments in telomere and centromere regions of target chromosone. Quantitatively analyzed and optimized the threshold changes on final results, obtained high quality probes and an Invention Patent.
   - **Program Optimization**: Assessed and reformed algorithm logic, comparatively experimented different toolkits. Reduced execution time from 48h to under 10h, memory usage by threefold.
   - **Data Processing and Report Writing**: Processed and analyzed output data in Linux, integrated biological information to select detectable sequences without fold spatial structures. Compiled final sequences and wrote user-friendly manual.
