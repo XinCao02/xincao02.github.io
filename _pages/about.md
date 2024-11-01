@@ -39,7 +39,7 @@ As the 2024 Nobel Prizes came out and Hold Thorp (Editor-in-Chief of *Science*) 
 
 I am actively seeking interesting research opportunities and Ph.D. positions starting in Spring/Fall 2025. If you are looking for a dedicated and self-motivated candidate, please DO contact me at [xincao@link.cuhk.edu.cn](mailto:xincao@link.cuhk.edu.cn) !
 
-For the final part (although I'd definitely prefer putting this paragraph in the front) I would love to talk about the major achievements aside of my academic pursuits. I am the core player / captain of the CUHKSZ / Harmonia College Soccer Team ⚽️, 2022 champion 🏆 of Shenzhen City, and I've also formed multiple bands and we wrote many original songs (covering genres like Hardcore Punk, Blues rock, R&B, Jazz-Hiphop, Contemporary Folk, Pop Rock, etc.) as a guitarist 🎸 keyboard 🎹 and lead singer 🎤; Led Zeppelin and Guns'n'Roses are among my favorite bands. Additionally, I attained ABRSM Grade 5 in Piano & Music Theory at Los Angeles by the age of 10, and achieved First Place in the 2021 CUHKSZ Singing Competition (Duet). Though extracurricular, I firmly believe these experiences may enhance my leadership & teamwork skills professionally, while also fostering creativity and open-mindedness in research.
+For the final part (though I'd definitely prefer putting this paragraph in the front) I would love to talk about the major achievements aside of my academic pursuits. I am the core player / captain of the CUHKSZ / Harmonia College Soccer Team ⚽️, 2022 champion 🏆 of Shenzhen City, and I've also formed multiple bands and we wrote many original songs (covering genres like Hardcore Punk, Blues rock, R&B, Jazz-Hiphop, Contemporary Folk, Pop Rock, etc.) as a guitarist 🎸 keyboard 🎹 and lead singer 🎤; Led Zeppelin and Guns'n'Roses are among my favorite bands. Additionally, I attained ABRSM Grade 5 in Piano & Music Theory at Los Angeles by the age of 10, and achieved First Place in the 2021 CUHKSZ Singing Competition (Duet). Though extracurricular, I firmly believe these experiences may enhance my leadership & teamwork skills professionally, while also fostering creativity and open-mindedness in research.
 
 ****
 # 🔥 News
@@ -48,8 +48,9 @@ For the final part (although I'd definitely prefer putting this paragraph in the
 - *2024.09*: &nbsp;🎉 4<sup>th</sup> Place in the [ICSR 2024 Robot Design Competition](https://icsr2024.dk/index.php/robot-design-competition/): presented PASIR, a multimodal emtion prediction robot using BCI-driven emotion models.
 - *2024.08*: &nbsp;🎤 Delivered a Speech at the 2024 Opening Ceremony as the Student Representative of Harmonia College, awarded a scholarship of ¥10,000 RMB.
 - *2024.05*: &nbsp;🔬 Started research on PPI Prediction via GNNs with Prof. Gang CAO at Shenzhen University of Advanced Technology.
-- *2024.04*: &nbsp;🏅 Ranked Global Top 10 in the 2024 [Bremen Big Data Challenge](https://bbdc.csl.uni-bremen.de/en/), led the project under supervision of [Prof. Haizhou LI](https://sds.cuhk.edu.cn/en/teacher/498)
-- *2023.10*: &nbsp;🏆 Champion of 2022 Shenzhen Soccer League, Runner-up of 2023 League, Core Player of school team.
+- *2024.04* : &nbsp;🏅 Ranked Global Top 10 in the 2024 [Bremen Big Data Challenge](https://bbdc.csl.uni-bremen.de/en/), led the project under supervision of [Prof. Haizhou LI](https://sds.cuhk.edu.cn/en/teacher/498)
+- *2023.10* : &nbsp;🏆 Champion of 2022 Shenzhen Soccer League, Runner-up of 2023 League, Core Player of school team.
+- *2024.11* : &nbsp;🎸 Upcoming performance at HOULive, Shenzhen's biggest livehouse.
 
 
 # 📜 Working Papers and Academic Presentations
@@ -74,7 +75,7 @@ For the final part (although I'd definitely prefer putting this paragraph in the
 [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), Supervised by [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm)
 
 - **Summary**: Investigated protein-protein interaction (PPI) prediction model architecture and datasets, proposing the use of short protein sequences to optimize feature learning & computational efficiency. Built a cross-species, non-redundant protein and peptide database and visualized PPI features.
-- **Methods and Tools**: Utilized PyTorch, Tensorflow for model (GIN, GAT, VQ-VAE, etc.) construction and finetuning; CDHIT, MatPlotLib, Linux awk for data processing.
+- **Methods and Tools**: Utilized PyTorch, Tensorflow for model construction (GIN, GAT, VQ-VAE, etc.) and finetuning; CDHIT, MatPlotLib, Linux awk for data processing.
 - **Key Outcomes**: Found out training on short protein datasets could improve novel PPI prediction, and finetuning on long+short datasets could improve model performance. Achieved 99.94% accuracy and 98.85% F1 score, establishing a high-performance benchmark for future research.
 </div>
 </div>
@@ -108,7 +109,7 @@ For the final part (although I'd definitely prefer putting this paragraph in the
 
 # 🚀 Additional Skills
 
-- **Technical** : Python, Linux, PyTorch, Tensorflow, SQL, Spark, RegEx, LaTeX, C/C++, Java, Stable Diffusion, Ollama
-- **English** : Five years of school in America (Native Speaker); TOEFL 100 (Listening: 29)
-- **Music** : Experienced in Logic Pro, Reaper, Lumafusion; Lead vocal, lead guitar, keyboard, captain of original band; 1st place in University Singing Competition (Duet); University choir Tenor; ABRSM Grade 5 in piano
-- **Soccer** : Captain of college team; Core player of university team; Champion of Shenzhen University soccer League
+- 🛠️ **Technical** : Python, Linux, PyTorch, Tensorflow, SQL, Spark, RegEx, LaTeX, C/C++, Java, Stable Diffusion, Ollama
+- 📖 **English** : Five years of school in America (Native Speaker); TOEFL 100 (Listening: 29)
+- 🎵 **Music** : Experienced in Logic Pro, Reaper, Lumafusion; Lead vocal, lead guitar, keyboard, captain of original band; 1st place in University Singing Competition (Duet); University choir Tenor; ABRSM Grade 5 in piano
+- ⚽️ **Soccer** : Captain of college team; Core player of university team; Champion of Shenzhen University soccer League
