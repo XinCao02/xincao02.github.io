@@ -64,21 +64,20 @@ For the final part (although I'd definitely prefer putting this paragraph in the
 [5] Reviewed 1 paper for **SIGKDD** Conference (2025) on behalf of official program committee member: *Large Language Models for Next Group Point-of-Interest Recommendation*.
 
 
-# 📝 Publications 
+# 📝 Research Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">May 2024</div><img src='images/ppi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Protein Interaction Prediction: Deep Learning Benchmarking and Visualization**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), Supervised by [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Summary**: Investigated protein-protein interaction (PPI) prediction model architecture and datasets, proposing the use of short protein sequences to optimize feature learning & computational efficiency. Built a cross-species, non-redundant protein and peptide database and visualized PPI features.
+- **Methods and Tools**: Utilized PyTorch, Tensorflow for model (GIN, GAT, VQ-VAE, etc.) construction and finetuning; CDHIT, MatPlotLib, Linux awk for data processing.
+- **Key Outcomes**: Found out training on short protein datasets could improve novel PPI prediction, and finetuning on long+short datasets could improve model performance. Achieved 99.94% accuracy and 98.85% F1 score, establishing a high-performance benchmark for future research.
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 
