@@ -21,7 +21,7 @@ redirect_from:
 
 
 ****
-Hey there! This is Xin Cao, a senior undergraduate of Data Science & Big Data Technology Major at [The Chinese University of Hong Kong, Shenzhen *(CUHKSZ)*](https://www.cuhk.edu.cn/en).
+Hey there! This is Xin Cao, a senior undergraduate of Data Science & Big Data Technology Major at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) *(CUHKSZ)*.
 
 I am currently under the supervision of [Prof. Hsien-Da HUANG](https://med.cuhk.edu.cn/en/teacher/120) in the [Warshel Institute for Computational Biology](https://med.cuhk.edu.cn/en/page/105), focusing on Transcriptional Factor *(TF)* Activity and Regulatory Network Prediction based on Bayesian Models and miRNA Data. I have also worked with [Prof. Gang CAO](https://www.suat-sz.edu.cn/info/1166/1788.htm) at the [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), where I led a project on Protein Protein Interaction Prediction *(PPI)* using Graph Neural Networks *(GNNs)*. In the past, I have also followed [Prof. Zhizheng Wu](https://sds.cuhk.edu.cn/en/teacher/641) of [CUHKSZ](https://www.cuhk.edu.cn/en) in topics on Music Tracks Generation via Latent Diffusion Models *(LDM)* and Audio Enhancement. My first research experience was supervised by [Prof. Feng ZHENG](https://www.sustech.edu.cn/en/faculties/zhengfeng.html) at [SUSTech](https://www.sustech.edu.cn/en/faculties/zhengfeng.html) and contributed some works on Multimodal Computer Vision *(CV)* Adversarial Robustness, and did surveys on AI music.
 
