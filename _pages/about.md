@@ -67,7 +67,7 @@ For the final part (though I'd definitely prefer putting this paragraph in the f
 
 # 📝 Research Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">May 2024</div><img src='images/ppi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">June 2024</div><img src='images/ppi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Protein Interaction Prediction: Short Protein Dataset Investigation and Peptide Analysis**
@@ -84,7 +84,23 @@ For the final part (though I'd definitely prefer putting this paragraph in the f
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">May 2024</div><img src='images/SUSTech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mar 2024</div><img src='images/Audio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Drum Track Generation & Audio Enhancement**
+
+[The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), Supervised by [Prof. Zhizheng Wu](https://sds.cuhk.edu.cn/en/teacher/641)
+- **Data Collection and Analysis**: Collected and analyzed model codes and datasets for audio enhancement and generation tasks. Compared different models’ effectiveness on track generation tasks, concluding that Latent Diffusion and Transformer models performed best. Trained and generated over 90 drumbeat segments for pure music tracks using the Latent Diffusion model.
+- **Data Processing and Augmentation**: Utilized Demucs software to seperate drum tracks from complete music pieces. Adjusted the ratio of different musical styles in dataset to generate more diverse and optimal drumbeats.
+- **Model Deployment**: Responsible for the local deployment and testing of the Demucs model (hybrid transformer architecture) as part of the research team’s ongoing investigation into audio editing tasks.
+</div>
+</div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sep 2022</div><img src='images/SUSTech.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multimodal CV Adversarial Robustness and AI Music Survey**
