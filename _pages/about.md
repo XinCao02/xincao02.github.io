@@ -70,7 +70,7 @@ For the final part (though I'd definitely prefer putting this paragraph in the f
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">May 2024</div><img src='images/ppi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Protein Interaction Prediction: Deep Learning Benchmarking and Visualization**
+**Protein Interaction Prediction: Short Protein Dataset Investigation and Peptide Analysis**
 
 [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), Supervised by [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm)
 
