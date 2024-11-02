@@ -80,6 +80,21 @@ For the final part (though I'd definitely prefer putting this paragraph in the f
 </div>
 </div>
 
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">May 2024</div><img src='images/SUSTech.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multimodal CV Adversarial Robustness and AI Music Survey**
+
+[SUSTech](https://www.sustech.edu.cn/en/faculties/zhengfeng.html), Supervised by [Prof. Feng ZHENG](https://www.sustech.edu.cn/en/faculties/zhengfeng.html)
+- **Evaluation of System Robustness**: Investigated and organized various metrics to assess and enhance the robustness of image-text retrieval systems. Participated in data preprocessing, model debugging, and evaluating model performance, focusing on the impact of preprocessing techniques on evaluation results.
+- **Research and Model Re-implementation**: Independently researched the fields of Optical Music Recognition (OMR) and AI music generation. Re-implemented and adjusted codes from recent papers, optimizing label data to improve model accuracy. Delivered technical analyses and summaries during team meetings.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 
 - *2024.09* : 4<sup>th</sup> Place, [ICSR 2024](https://icsr2024.dk/index.php/robot-design-competition/) Robot Design Competition
