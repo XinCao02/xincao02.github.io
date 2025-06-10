@@ -42,10 +42,10 @@ For the final part (though I'd definitely prefer putting this paragraph in the f
 - *2025.06*: &nbsp;🧪 Was assigned a new project: Enzyme Function Prediction via Deep Learning Models.
 - *2025.03*: &nbsp;📄 Submitted my 1st paper as 1st Author, *Enhancing Cross Domain Protein and Peptide Interaction with Re-trained Deep_Learning Models*, to *Briefing in Bioinformatics*, currently Under Review.
 - *2024.10*: &nbsp;💬 Participated in the 6<sup>th</sup> [Warshel Institue](https://warshel.cuhk.edu.cn/) Meeting of Computational Biology and Bioinformatics, engaged and consulted with various esteemed academics.
-- *2024.10*: &nbsp;🧬 Joined [Prof. Hsien-Da HUANG](https://med.cuhk.edu.cn/en/teacher/120)'s Team: began work on TF Activity Prediction with miRNA and Bayesian Models.
+- *2024.10*: &nbsp;📈 Joined [Prof. Hsien-Da HUANG](https://med.cuhk.edu.cn/en/teacher/120)'s Team: began work on TF Activity Prediction with miRNA and Bayesian Models.
 - *2024.09*: &nbsp;🎉 4<sup>th</sup> Place in the [ICSR 2024 Robot Design Competition](https://icsr2024.dk/index.php/robot-design-competition/): presented PASIR, a multimodal emtion prediction robot using BCI-driven emotion models.
 - *2024.08*: &nbsp;🎤 Delivered a Speech at the 2024 Opening Ceremony as the Student Representative of Harmonia College, awarded a scholarship of ¥10,000 RMB.
-- *2024.05*: &nbsp;🔬 Started research on PPI Prediction via GNNs with Prof. [Prof. Gang CAO](https://www.suat-sz.edu.cn/info/1166/1788.htm) at [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/).
+- *2024.05*: &nbsp;🧬 Started research on PPI Prediction via GNNs with Prof. [Prof. Gang CAO](https://www.suat-sz.edu.cn/info/1166/1788.htm) at [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/).
 - *2024.04*: &nbsp;🏅 Ranked Global Top 10 in the 2024 [Bremen Big Data Challenge](https://bbdc.csl.uni-bremen.de/en/), led the project under supervision of [Prof. Haizhou LI](https://sds.cuhk.edu.cn/en/teacher/498)
 - *2023.10*: &nbsp;🏆 Champion of 2022 Shenzhen Soccer League, Runner-up of 2023 League, Core Player of school team.
 - *2024.11*: &nbsp;🎸 Upcoming performance at [HOULIVE](https://weibo.com/6572337854/), Shenzhen's No.1 livehouse.
