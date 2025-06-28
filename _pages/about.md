@@ -21,7 +21,7 @@ redirect_from:
 
 
 ****
-Hey there! This is Xin Cao, a senior undergraduate of Data Science & Big Data Technology Major at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) *(CUHKSZ)*.
+Hey there! This is Xin Cao, a Bachelor of Science in Data Science & Big Data Technology at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) *(CUHKSZ)*.
 
 I am currently under the supervision of [Prof. Hsien-Da HUANG](https://med.cuhk.edu.cn/en/teacher/120) in the [Warshel Institute for Computational Biology](https://med.cuhk.edu.cn/en/page/105), focusing on Transcriptional Factor *(TF)* Activity and Regulatory Network Prediction based on Bayesian & Deep Learning Models, and miRNA Data. I have also worked with [Prof. Gang CAO](https://www.suat-sz.edu.cn/info/1166/1788.htm) at the [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), where I led a project on Protein Protein Interaction Prediction *(PPI)* using Graph Neural Networks *(GNNs)*. In the past, I have also followed [Prof. Zhizheng Wu](https://sds.cuhk.edu.cn/en/teacher/641) of [CUHKSZ](https://www.cuhk.edu.cn/en) in topics on Music Tracks Generation via Latent Diffusion Models *(LDM)* and Audio Enhancement. My first research experience was supervised by [Prof. Feng ZHENG](https://www.sustech.edu.cn/en/faculties/zhengfeng.html) at [SUSTech](https://www.sustech.edu.cn/en/faculties/zhengfeng.html) and contributed some works on Multimodal Computer Vision *(CV)* Adversarial Robustness, and did surveys on AI music.
 
@@ -33,7 +33,7 @@ As the 2024 Nobel Prizes came out and Hold Thorp (Editor-in-Chief of *Science*) 
 - **Brain-Like ANNs:** Artificial Neural Networks *(ANNs)* have been blazing through these recent years, but named after human brains, they don't actually simulate the workflow of human Neural Networks at all! After all, the result after eras of natural selection is what's truly meant to be *intelligent*.
 - **AI Music (Non-generative):** Tracks Seperation, Audio Enhancement, Arrangements Assisting.
 
-I am actively seeking interesting research opportunities and Ph.D. positions starting in Spring/Fall 2025. If you are looking for a dedicated and self-motivated candidate, please DO contact me at [xincao@link.cuhk.edu.cn](mailto:xincao@link.cuhk.edu.cn) !
+I am actively seeking interesting research opportunities and Ph.D. positions in the future. If you are looking for a dedicated and self-motivated candidate, please DO contact me at [xincao@link.cuhk.edu.cn](mailto:xincao@link.cuhk.edu.cn) !
 
 For the final part (though I'd definitely prefer putting this paragraph in the front) I would love to talk about the major achievements aside of my academic pursuits. I am the core player / captain of the CUHKSZ / Harmonia College Soccer Team ⚽️, 2022 champion 🏆 of Shenzhen City, and I've also formed multiple bands and we wrote many original songs (covering genres like Hardcore Punk, Blues Rock, R&B, Jazz-Hiphop, Contemporary Folk, Post Rock, etc.) as a guitarist 🎸 keyboard 🎹 and lead singer 🎤; Led Zeppelin and Guns'n'Roses are among my favorite bands. Additionally, I attained ABRSM Grade 5 in Piano & Music Theory at Los Angeles by the age of 10, and achieved First Place in the 2021 CUHKSZ Singing Competition (Duet). Though extracurricular, I firmly believe these experiences may enhance my leadership & teamwork skills professionally, while also fostering creativity and open-mindedness in research.
 
