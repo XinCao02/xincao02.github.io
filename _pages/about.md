@@ -21,7 +21,7 @@ redirect_from:
 
 
 ****
-Hey there! This is Xin Cao, a Bachelor of Science in Data Science & Big Data Technology at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) *(CUHKSZ)*.
+Hey there! This is Xin Cao, a Master of Philosophy in Computational Biology at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) *(CUHKSZ)* I also aquired my Bachelor of Science in Data Science & Big Data Technology degree at **CUHKSZ**.
 
 I am currently under the supervision of [Prof. Hsien-Da HUANG](https://med.cuhk.edu.cn/en/teacher/120) in the [Warshel Institute for Computational Biology](https://med.cuhk.edu.cn/en/page/105), focusing on Transcriptional Factor *(TF)* Activity and Regulatory Network Prediction based on Bayesian & Deep Learning Models, and miRNA Data. I have also worked with [Prof. Gang CAO](https://www.suat-sz.edu.cn/info/1166/1788.htm) at the [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), where I led a project on Protein Protein Interaction Prediction *(PPI)* using Graph Neural Networks *(GNNs)*. In the past, I have also followed [Prof. Zhizheng Wu](https://sds.cuhk.edu.cn/en/teacher/641) of [CUHKSZ](https://www.cuhk.edu.cn/en) in topics on Music Tracks Generation via Latent Diffusion Models *(LDM)* and Audio Enhancement. My first research experience was supervised by [Prof. Feng ZHENG](https://www.sustech.edu.cn/en/faculties/zhengfeng.html) at [SUSTech](https://www.sustech.edu.cn/en/faculties/zhengfeng.html) and contributed some works on Multimodal Computer Vision *(CV)* Adversarial Robustness, and did surveys on AI music.
 
@@ -39,6 +39,7 @@ For the final part (though I'd definitely prefer putting this paragraph in the f
 
 ****
 # 🔥 News
+- *2025.09* &nbsp;🎉 1-st Author Paper ACCEPTED by [Briefings in Bioinformatics](https://academic.oup.com/bib/article/26/5/bbaf544/8290424)!!!
 - *2025.06*: &nbsp;🧪 Was assigned a new project: Enzyme Function Prediction via Deep Learning Models.
 - *2025.03*: &nbsp;📄 Submitted my 1st paper as 1st Author, *Enhancing Cross Domain Protein and Peptide Interaction with Re-trained Deep_Learning Models*, to *Briefing in Bioinformatics*, currently Under Review.
 - *2024.10*: &nbsp;💬 Participated in the 6<sup>th</sup> [Warshel Institue](https://warshel.cuhk.edu.cn/) Meeting of Computational Biology and Bioinformatics, engaged and consulted with various esteemed academics.
