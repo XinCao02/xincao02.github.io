@@ -39,6 +39,7 @@ For the final part (though I'd definitely prefer putting this paragraph in the f
 
 ****
 # 🔥 News
+- *2025.09* &nbsp;🎉 My Paper on Deep Learning miRNA Inference ACCEPTED by [Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202514446)!
 - *2025.09* &nbsp;🎉 1-st Author Paper ACCEPTED by [Briefings in Bioinformatics](https://academic.oup.com/bib/article/26/5/bbaf544/8290424)!!!
 - *2025.06*: &nbsp;🧪 Was assigned a new project: Enzyme Function Prediction via Deep Learning Models.
 - *2025.03*: &nbsp;📄 Submitted my 1st paper as 1st Author, *Enhancing Cross Domain Protein and Peptide Interaction with Re-trained Deep_Learning Models*, to *Briefing in Bioinformatics*, currently Under Review.
