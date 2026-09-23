@@ -51,15 +51,15 @@ For the final part (though I'd definitely prefer putting this paragraph in the f
 
 
 # 📜 Working Papers and Academic Presentations
-[1] <u>**X. Cao**<u>, J. Li, F. Meng, B. Yang, Y. Zou. *Enhancing Cross-Domain Protein and Peptide Interaction with Re-trained Deep Learning Models*. ([Briefings in Bioinformatics](https://academic.oup.com/bib/article/26/5/bbaf544/8290424) 2026).
+[1] <u>**X. Cao**</u>, J. Li, F. Meng, B. Yang, Y. Zou. *Enhancing Cross-Domain Protein and Peptide Interaction with Re-trained Deep Learning Models*. ([Briefings in Bioinformatics](https://academic.oup.com/bib/article/26/5/bbaf544/8290424) 2026).
 
-[2] X. Cai, Y. Pang, J. Liao, J. Ma, S. Cui, Y. Chen, Y. Lin, <u>**X. Cao**<u>, T. Xu, Y. Chen, J. Xu, J. Wan, T. Lee, S. Huang, H. Huang. *SiCmiR Atlas: Single-Cell miRNA Landscape Reveals Hub-miRNA and Network Signatures in Human Cancers*. ([Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202514446) 2026).
+[2] X. Cai, Y. Pang, J. Liao, J. Ma, S. Cui, Y. Chen, Y. Lin, <u>**X. Cao**</u>, T. Xu, Y. Chen, J. Xu, J. Wan, T. Lee, S. Huang, H. Huang. *SiCmiR Atlas: Single-Cell miRNA Landscape Reveals Hub-miRNA and Network Signatures in Human Cancers*. ([Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202514446) 2026).
 
-[3] <u>**X. Cao**<u>, Y. Chen, J. Xu, Z. Zhang, X. Cheng, Z. Zhu, Y. Zhang, X. Cai, X. Huang, Y. Lin, H. Huang. *MIRCID: MiRNA Features Drive Cross-Task Improvements in Drug Mechanistic Modeling*. ([Advanced Science](https://arxiv.org/abs/2609.21280) 2026, Under Review).
+[3] <u>**X. Cao**</u>, Y. Chen, J. Xu, Z. Zhang, X. Cheng, Z. Zhu, Y. Zhang, X. Cai, X. Huang, Y. Lin, H. Huang. *MIRCID: MiRNA Features Drive Cross-Task Improvements in Drug Mechanistic Modeling*. ([Advanced Science](https://arxiv.org/abs/2609.21280) 2026, Under Review).
 
-[4] Z. Zhu†, <u>**X. Cao†**<u>, Y. Wang, Z. Wan, Y. Chen, A. Warshel*, H. Huang. _Minimal Synergistic Target Set for Canagliflozin Combination Therapy via Multidimensional Representation Alignment_. (Manuscript, 2026.10)
+[4] Z. Zhu†, <u>**X. Cao†**</u>, Y. Wang, Z. Wan, Y. Chen, A. Warshel*, H. Huang. _Minimal Synergistic Target Set for Canagliflozin Combination Therapy via Multidimensional Representation Alignment_. (Manuscript, 2026.10)
 
-[5] Z. Zhu†, <u>**X. Cao†**<u>, X. Cai, Y. Wang, Z. Wan, J. Xu, J. Wan, H. Huang. _Learning transcriptomic reversal representations for drug repositioning in hepatocellular carcinoma_. (Manuscript, 2026.11)
+[5] Z. Zhu†, <u>**X. Cao†**</u>, X. Cai, Y. Wang, Z. Wan, J. Xu, J. Wan, H. Huang. _Learning transcriptomic reversal representations for drug repositioning in hepatocellular carcinoma_. (Manuscript, 2026.11)
 
 
 # 📝 Research Experience
