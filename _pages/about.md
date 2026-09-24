@@ -21,13 +21,11 @@ redirect_from:
 
 
 ****
-Hey there! This is Xin Cao, a Master of Philosophy in Computational Biology at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) *(CUHKSZ)* I also aquired my Bachelor of Science in Data Science & Big Data Technology degree at **CUHKSZ**.
+Hey there! This is Xin Cao, a Master of Philosophy in Computational Biology at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) *(CUHKSZ)* I also aquired my Bachelor of Science in Data Science (Computing Stream) degree at **CUHKSZ**.
 
 I am currently under the supervision of [Prof. Hsien-Da HUANG](https://med.cuhk.edu.cn/en/teacher/120) in the [Warshel Institute for Computational Biology](https://med.cuhk.edu.cn/en/page/105), focusing on Deep Learning for transcriptomics and proteomics. I've also worked with [Prof. Gang CAO](https://www.suat-sz.edu.cn/info/1166/1788.htm) at the [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), where I led a project on Protein Protein Interaction Prediction *(PPI)* using Graph Neural Networks *(GNNs)*. In the past, I also followed [Prof. Zhizheng Wu](https://sds.cuhk.edu.cn/en/teacher/641) of [CUHKSZ](https://www.cuhk.edu.cn/en) in topics on Music Tracks Generation via Latent Diffusion Models *(LDM)* and Audio Enhancement. My first research experience was supervised by [Prof. Feng ZHENG](https://www.sustech.edu.cn/en/faculties/zhengfeng.html) at [SUSTech](https://www.sustech.edu.cn/en/faculties/zhengfeng.html) and contributed some works on Multimodal Computer Vision *(CV)* Adversarial Robustness, and did surveys on AI music.
 
-Growing up in [Cold Spring Harbor *(CSHL)*](https://www.cshl.edu), my interests and instincts for Biological Sciences have been cultivated greatly; and I chose DS as my major because I foresaw what impact Big Data could have in future lives: it would be the "20<sup>th</sup>-century-CS-language in the 21<sup>st</sup> century". Combining my major with my interests, I am highly dedicated and motivated in exploring frontier fields and potential breakthroughs in Biological Sciences, and have been at the edge of my seat to see what sparks DS/AI can ignite in BioScience!
-
-As the 2024 Nobel Prizes came out and Hold Thorp (Editor-in-Chief of *Science*) praised AlphaFold as *the* greatest achievement in AI, I have become even more convinced and confident that the research fields I've chosen are the correct ones:
+Growing up in [Cold Spring Harbor *(CSHL)*](https://www.cshl.edu), my interests and instincts for Biological Sciences have been cultivated greatly to combine with my backgrounds in Data Science and CS:
 
 - **DL transcriptomics & AI Virtual Cells:** Artificial Intelligence can and *should* be utilized to explore Biological Data Patterns and Large Models has shown progress to fit cells.
 - **PepPI / DTI / AIDD:** Building on my PepPI paper, I seek to explore Drug Discovery from target interaction perspectives.
