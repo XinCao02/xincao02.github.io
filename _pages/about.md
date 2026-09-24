@@ -37,7 +37,7 @@ For the final part I'd love to talk about achievements aside of academics. I'm t
 
 ****
 # 🔥 News
-- *2026.09.23* &nbsp;📄 Submitted 1-st Author Paper to _Advanced Science_, _MIRCID: MIRCID: Inferred Hub-miRNAs Drive Cross-Task Improvements in Drug Mechanistic Modeling_.
+- *2026.09.23* &nbsp;📄 Submitted 1-st Author Paper to _Advanced Science_, now available on [Arxiv](https://arxiv.org/abs/2609.21280).
 - *2026.04* &nbsp;🎉 My Paper on Deep Learning miRNA Inference **ACCEPTED** by [Advanced Science](https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202514446)!
 - *2026.03* &nbsp;🏆 Attained Annual Top10 Singers in CUHKSZ TheVoice Fianls 🎤 & CUHKSZ League of Legends Championship 🎮!
 - *2025.09* &nbsp;🎉 1-st Author Paper **ACCEPTED** by [Briefings in Bioinformatics](https://academic.oup.com/bib/article/26/5/bbaf544/8290424)!!!
