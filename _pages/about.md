@@ -57,13 +57,15 @@ For the final part I'd love to talk about achievements aside of academics. I'm t
 [3] **<u>X. Cao</u>**, Y. Chen, J. Xu, Z. Zhang, X. Cheng, Z. Zhu, Y. Zhang, X. Cai, X. Huang, Y. Lin, H. Huang. *MIRCID: MiRNA Features Drive Cross-Task Improvements in Drug Mechanistic Modeling*. ([Advanced Science](https://arxiv.org/abs/2609.21280) 2026, Under Review).
 
 
-# 📝 Research Experience
+# 📝 Research
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nov 2024</div><img src='images/MIRCID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MIRCID: miRNA prediction for Cross-task Drug Mechanisms**
+
+[Paper](https://arxiv.org/abs/2609.21280)
 
 [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), Supervised by [Hsiend-Da Huang](https://med.cuhk.edu.cn/en/teacher/120)
 - **miRNA Inference Model Development**: Developed HubmiRNet to map 977 L1000 genes to 1298/414 hub-miRNAs, outperforming Transformer, KAN, and DenseNet baselines with 87% Pearson correlation.
@@ -86,6 +88,8 @@ For the final part I'd love to talk about achievements aside of academics. I'm t
 
 
 **Protein Interaction Prediction: Short Protein Dataset Investigation and Peptide Analysis**
+
+[Paper]((https://academic.oup.com/bib/article/26/5/bbaf544/8290424))
 
 [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), Supervised by [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm)
 
